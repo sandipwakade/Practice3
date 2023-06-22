@@ -38,6 +38,7 @@ public class LogInOrSignUPpage {
 	public void openMessanger()
 	{
 		messenger.click();
+		// sandip
 	}
 	
 }
